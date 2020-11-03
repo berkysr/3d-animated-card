@@ -1,0 +1,29 @@
+{
+  "name": "3d-animated-card",
+  "version": "1.0.0",
+  "description": "3d animated card made with JS, CSS and HTML5",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkysr/3d-animated-card.git"
+  },
+  "keywords": [
+    "grid",
+    "CSS3",
+    "JavaScript",
+    "HTML5",
+    "practice",
+    "3d"
+  ],
+  "author": "Berk YASAR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berkysr/3d-animated-card.git/issues"
+  },
+  "homepage": "https://github.com/berkysr/3d-animated-card.git#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
